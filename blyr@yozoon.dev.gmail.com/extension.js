@@ -470,7 +470,7 @@ class Blyr {
                 monitor: this.primaryBackground.monitor,
                 content: this.primaryBackground.content,
                 width: Main.layoutManager.panelBox.width,
-                height: Main.layoutManager.panelBox.width,
+                height: Main.layoutManager.panelBox.height,
                 x: parseFloat(-1.0 * tpx),
                 y: parseFloat(-1.0 * tpy),
             });
